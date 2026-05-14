@@ -11,7 +11,7 @@ Berikut adalah dokumentasi antarmuka (UI) dari aplikasi Saya:
 ### 1. Autentikasi & Beranda
 | Login Screen | Home Screen |
 | :---: | :---: |
-| <img src="Login_screen.png" width="250"> | <img src="Home_Screen.png" width="250"> |
+| <img src="Login_Screen.png" width="250"> | <img src="Home_Screen.png" width="250"> |
 
 ### 2. Manajemen Produk
 | Daftar Produk | Tambah Produk | Hapus Produk |
