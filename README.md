@@ -19,11 +19,23 @@ Berikut adalah dokumentasi antarmuka (UI) dari aplikasi Saya:
 | <img src="Product_Screen.png" width="250"> | <img src="Tambah_Product_Screen.png" width="250"> | <img src="Hapus_Product_Screen.png" width="250"> |
 
 ### 3. Notifikasi & Sesi
-| Produk Disimpan | Logout | Tugas Screen |
-| :---: | :---: | :---: |
-| <img src="PopUp_Product_Disimpan.png" width="250"> | <img src="Logout_Screen.png" width="250"> | <img src="Tugas_Screen.png" width="250"> |
+| Produk Disimpan | Logout | Tugas Screen | Berhasil Kirim |
+| :---: | :---: | :---: | :---: |
+| <img src="PopUp_Product_Disimpan.png" width="250"> | <img src="Logout_Screen.png" width="250"> | <img src="Tugas_Screen.png" width="250"> | <img src="Berhasil_Kirim_Tugas.png" width="250"> |
 
 ---
+
+## 📁 Struktur Folder Project
+
+Berikut adalah struktur direktori utama pada folder `lib` dalam proyek ini:
+
+```text
+lib/
+├── models/          # Berisi blueprint data (Product & User model)
+├── screens/         # Berisi file UI/Tampilan utama aplikasi
+├── services/        # Menangani komunikasi data (API Service)
+├── utils/           # Konfigurasi tema, konstanta, dan helper
+└── main.dart        # Entry point utama aplikasi Flutter
 
 ## Fitur Utama
 * **Autentikasi User:** Pengamanan akses masuk ke dalam aplikasi.
